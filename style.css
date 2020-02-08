@@ -1,0 +1,19 @@
+
+h1{
+    color: blue;
+    border: 1px solid black;
+}
+/*aplico los sigientes colores a los bordes del Div*/
+margin{
+    color: red;
+}
+border{
+    color: #f05f23;
+
+}
+padding{
+    color: yellow;
+}
+p{
+    color: black;
+}
